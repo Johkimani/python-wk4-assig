@@ -29,13 +29,11 @@ How to Run
 
 Make sure you have Python 3 installed.
 
-Save the Python scripts (e.g., read_write.py and error_handling.py).
+Save the Python scripts (e.g., read_write.py).
 
 Run them in your terminal or command prompt:
 
 python read_write.py
-python error_handling.py
-
 
 For the Error Handling Lab, you’ll be prompted to enter a filename.
 
